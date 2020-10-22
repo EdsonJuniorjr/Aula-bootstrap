@@ -1,2 +1,2 @@
 # Aula-bootstrap
-Utilizando o Bootstrap
+Aprendendo a utilizar o Bootstrap
